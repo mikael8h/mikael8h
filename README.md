@@ -55,6 +55,13 @@ Aqui você encontrará tanto **aprendizado em andamento** quanto projetos em con
 Este perfil está em constante desenvolvimento — assim como meu aprendizado.
 
 
+## 🛠️ Ferramentas e linguagens
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+
 <!--
 **mikael8h/mikael8h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
